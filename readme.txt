@@ -6,3 +6,5 @@ Creating a new branch is quick AND simple.
 simple.
 I am working ~
 resolve a bug!
+I have resolved the problem in dev.
+
